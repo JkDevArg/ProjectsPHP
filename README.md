@@ -7,13 +7,10 @@ Projectos PHP/POO/PDO
 
 Mini Sistema de Descuento por Día y Edad
 
-*Formulario (Nombre, edad & día)
-
-*Chequea si el día actual hay descuento.
-
-*Información del valor original.
-
-*Información del descuento en el día = Ahorro.
+[x] Formulario (Nombre, edad & día)
+[x] Chequea si el día actual hay descuento.
+[x] Información del valor original.
+[x] Información del descuento en el día = Ahorro.
 
 
 [ file3.php / file3_chk.php ]
@@ -21,10 +18,7 @@ Mini Sistema de Descuento por Día y Edad
 
 Mini Sistema Vechiculo Rentado por Km & Días.
 
-*Formulario (Nombre, Kilometros Hechos & Días).
-
-*Chequea de kms > 2000 = 0.40 soles | kms < 2000 1 soles
-
-*Chequeo de días que se ocupo el vehiculo
-
-*Descuento por Kms
+[x] Formulario (Nombre, Kilometros Hechos & Días).
+[x] Chequea de kms > 2000 = 0.40 soles | kms < 2000 1 soles
+[x] Chequeo de días que se ocupo el vehiculo
+[x] Descuento por Kms
